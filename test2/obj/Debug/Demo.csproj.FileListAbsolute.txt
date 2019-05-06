@@ -1,0 +1,13 @@
+D:\School Files\大三下\GIS软件工程\project\test2\test2\bin\Debug\test2.exe.config
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.exe
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.pdb
+D:\School Files\大三下\GIS软件工程\project\test2\test2\bin\Debug\test2.exe
+D:\School Files\大三下\GIS软件工程\project\test2\test2\bin\Debug\test2.pdb
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.IdentifyForm.resources
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.MainForm.resources
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.Properties.Resources.resources
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.BufferForm.resources
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.QueryForm.resources
+D:\School Files\大三下\GIS软件工程\project\test2\test2\obj\Debug\test2.SpatialQueryForm.resources
